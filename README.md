@@ -7,3 +7,5 @@ HOW TO USE
 3. Click Next/Previous and it will rename the file
 
 Leaving the box empty WILL NOT RENAME THE FILE AND YOU CAN QUICKLY BROWSE THROUGH THE FILES WITHOUT RENAMING THEM
+
+You might need to install .NET frameworks or sumn
