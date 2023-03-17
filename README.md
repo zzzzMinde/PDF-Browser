@@ -2,7 +2,7 @@ I have no clue what I'm doing this is the first ever app I've uploaded/properly 
 
 HOW TO USE
 
-1. Click Open, then open a folder where all the PDFs are in one place (only works on PDFS that are split or you can only see the first page (might add next page))
+1. Click Open, then open a folder where all the PDFs are in one place
 2. in the Text Box enter what you would like the file name to be
 3. Click Next/Previous and it will rename the file (pressing enter will be the same as clicking next so theoretically you dont need to move your hands off your keyboard)
 
